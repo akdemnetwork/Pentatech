@@ -1,18 +1,3 @@
-/*new fullpage('#fullpage', {
-	autoScrolling: true,
-	scrollHorizontally: true,
-    responsiveWidth: 959,
-    scrollOverflow: true
-});
-
-new fullpage('#fullpage2', {
-    menu: '#menu',
-    anchors: ['firstPage', 'secondPage', '3rdPage'],
-    responsiveWidth: 959,
-});*/
-
-
-
 $(function () {
 	$('.contact-address').click(function () {
 		$(this).addClass('uk-section-primary');
@@ -109,10 +94,6 @@ $(function () {
 
         $('.header-navbar').toggleClass('uk-active');
     });
-
-    /*$('#modal-menu .nav li').on('mouseover', function () {
-        $(this).addClass('uk-active').siblings().removeClass('uk-active');
-    });*/
 
     $('[data-nav-item]').on('mouseover', function () {
         $(this).addClass('uk-active').siblings().removeClass('uk-active');
