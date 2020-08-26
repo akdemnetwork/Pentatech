@@ -1,0 +1,28 @@
+#projects {
+    padding-top: 50px;
+}
+#image{
+    padding-top: 100px;
+}
+#red_box{
+  padding-top: 250px; 
+  position: relative;
+  left: 50%;
+  top: 10%;
+  max-width: 50%;
+  
+   
+    
+  
+
+}
+#yazı{
+   
+    width: auto;
+    height: 130px;
+   position: relative;
+   left: auto,;
+   bottom: 180px;
+    
+
+}
