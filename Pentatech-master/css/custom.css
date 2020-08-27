@@ -16,13 +16,25 @@
   
 
 }
-#yazı{
-   
-    width: auto;
-    height: 130px;
-   position: relative;
-   left: auto,;
-   bottom: 180px;
-    
-
+#since{
+width: 9cm;
 }
+#en_alt{
+    position: relative;
+    left: 10%;
+}#h{
+    position: relative;
+    bottom: 0cm;
+}
+#h1{
+    position: relative;
+    bottom: 0.7cm;
+}#h2{
+    position: relative;
+    bottom: 1.4cm;
+}#h3{
+    position: relative;
+    bottom: 2.1cm;
+}
+
+
