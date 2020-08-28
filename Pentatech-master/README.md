@@ -1,2 +1,0 @@
-# Pentatech
- Projects Page
